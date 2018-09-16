@@ -1,0 +1,8 @@
+<svg>
+  <text id="accel-label" class="sensor-label" x="50%" y="30">accelerometer</text>
+  <text id="accel-data" class="sensor-data" x="50%" y="65">{ ... }</text>
+  <text id="geo-label" class="sensor-label" x="50%" y="100">geolocation</text>
+  <text id="geo-data" class="sensor-data" x="50%" y="135">{ ... }</text>
+  <text id="hrm-label" class="sensor-label" x="50%" y="180">heart rate</text>
+  <text id="hrm-data" class="sensor-data" x="50%" y="225">{ ... }</text>
+</svg>
